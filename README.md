@@ -57,11 +57,18 @@ And here's what it looks like:
 
 ![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-03.png)
 
-### Extra - Gradient Rainbow function:
+### Extra:
+**To call the Gradient Rainbow function:**
 
 You can add a gradient rainbow by typing `"rainbow"` in the **2nd parameter** as well
 
-Here's what it looks like:
+So this would be the code:
+
+```javascript
+dConsole("Color Spectrum", "rainbow");
+```
+
+And here's what it looks like:
 
 ![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-04.png)
 
