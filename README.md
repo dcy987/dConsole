@@ -24,7 +24,7 @@ Here's the result:
 
 ---
 
-### You can add **any color** to the last 2 parameters 
+### You can add `any color` to the last 2 parameters 
 
 ```javascript
 dConsole ("Shrek is an ogre", "crimson", "#fff");
