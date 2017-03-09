@@ -8,11 +8,11 @@ To call the default function:
 dConsole ("I have an apple");
 ```
 
-Here's the result
+###Here's the result
 
 ![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-01.png)
 
-### The function is divided into 3 parts:
+## The function is divided into 3 parts:
 
 * **Message**			("Shreek is an ogre")
 * **Background Color**	("crimson")
@@ -23,6 +23,6 @@ You can customize the style of the message with the last 2 parameters with **any
 ```javascript
 dConsole ("Shrek is an ogre", "crimson", "#fff");
 ```
-And here's the result of the custom style
+##And here's the result of the custom style
 
 ![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-02.png)
