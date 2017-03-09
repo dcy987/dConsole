@@ -10,7 +10,7 @@ dConsole is a custom way to send console messages for JavaScript
 
 ---
 
-**To call the default function**:
+### To call the default function:
 
 ```javascript
 dConsole ("I have an apple");
@@ -24,7 +24,8 @@ Here's the result:
 
 ---
 
-### You can add `any color` to the last 2 parameters 
+### To call the custom color function:
+You can add `any color` to the last 2 parameters 
 
 ```javascript
 dConsole ("Shrek is an ogre", "crimson", "#fff");
