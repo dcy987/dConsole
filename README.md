@@ -22,7 +22,7 @@ dConsole ("I have an apple", "background", "color");
 
 Here's the result:
 
-![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-01.png)
+![Screenshot 01](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-01.png)
 
 You can also send the **message without the 2nd and 3rd parameter** to use the **default style**
 ```javascript
@@ -41,7 +41,7 @@ You can add **any color** to the last 2 parameters
 
 And here's the result of the custom style:
 
-![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-02.png)
+![Screenshot 02](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-02.png)
 
 ---
 ### To call the Gradient function:
@@ -55,7 +55,7 @@ dConsole("2 Color Gradient", "gradient-indigo-royalblue");
 
 And here's what it looks like:
 
-![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-03.png)
+![Screenshot 03](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-03.png)
 
 ### Extra:
 **To call the Gradient Rainbow function:**
@@ -70,7 +70,7 @@ dConsole("Color Spectrum", "rainbow");
 
 And here's what it looks like:
 
-![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-04.png)
+![Screenshot 04](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-04.png)
 
 ---
 
