@@ -81,9 +81,9 @@ This works just like a framework
 1. **Download** the **dconsole-min.js** file from the **js** folder in this repository.
 2. Link it in your HTML head like this:
 
-~~~~
+```html
 <head>
 	<!-- dConsole -->
 	<script src="js/dconsole-min.js"></script>
 </head>
-~~~~
+```
