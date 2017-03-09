@@ -4,9 +4,11 @@ dConsole is a custom way to send console messages for JavaScript
 
 ### The function is divided into 3 parts (parameters):
 
-* **Message**			("Shreek is an ogre")
-* **Background Color**	("crimson")
-* **Text Color**		("#fff")
+* **Message**			(Example: "Shreek is an ogre")
+* **Background Color**	(Example: "crimson")
+* **Text Color**		(Example: "#fff")
+
+---
 
 **To call the default function**:
 
@@ -18,11 +20,9 @@ Here's the result:
 
 ![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-01.png)
 
-(As you can see, if you **only type the message without any style**, the function is called using the **default style**)
+(As you can see, if you **only type send the message without custom styles**, the function is called using the **default style**)
 
 ---
-
-
 
 ### You can add **any color** to the last 2 parameters 
 
