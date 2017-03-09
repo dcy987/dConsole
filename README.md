@@ -1,6 +1,6 @@
 # dConsole
 
-dConsole is a custom and cooler console debugger for JavaScript
+dConsole is a custom way to send console messages for JavaScript
 
 ### The function is divided into 3 parts (parameters):
 
@@ -18,7 +18,7 @@ Here's the result:
 
 ![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-01.png)
 
-(As you can see, if you **skip the 2nd and 3rd parameter**, the function is called using the **default style**)
+(As you can see, if you **only type the message without any style**, the function is called using the **default style**)
 
 ---
 
