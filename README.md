@@ -20,7 +20,7 @@ Here's the result:
 
 ![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-01.png)
 
-(As you can see, if you **only type send the message without custom styles**, the function is called using the **default style**)
+(As you can see, if you only send the **message without custom styles**, the function is called using the **default style**)
 
 ---
 
