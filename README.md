@@ -44,7 +44,7 @@ And here's the result of the custom style:
 ![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-02.png)
 
 ---
-### Gradients
+### To call the Gradient function:
 
 You can make a 2 color gradient by typing `"gradient-color1-color2"` in the **2nd parameter** (**Background Color**)
 So here's what you would type:
@@ -53,9 +53,17 @@ So here's what you would type:
 dConsole("2 Color Gradient", "gradient-indigo-royalblue");
 ```
 
-And here's how it looks like:
+And here's what it looks like:
 
 ![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-03.png)
+
+### Extra - Gradient Rainbow function:
+
+You can add a gradient rainbow by typing `"rainbow"` in the **2nd parameter** as well
+
+Here's what it looks like:
+
+![alt tag](https://raw.githubusercontent.com/dcy987/dConsole/master/screenshots/screenshot-04.png)
 
 ---
 
