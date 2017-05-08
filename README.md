@@ -4,7 +4,7 @@ dConsole is a custom way to send console messages for JavaScript
 
 ### The function is divided into 3 parts (parameters):
 
-* **Message**: Anything you want to type, including variables. (Example: "Shreek is an ogre")
+* **Message**: Anything you want to type, including variables. (Example: "Shrek is an ogre")
 * **Background**: The background color or gradient. (Example: "crimson")
 * **Color**: The text color. (Example: "#fff")
 
