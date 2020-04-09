@@ -1,6 +1,6 @@
 # dConsole
 
-dConsole is a custom way to send console messages for JavaScript
+dConsole is a very lightweight tool that displays custom console messages on your browser (JavaScript code).
 
 ### The function is divided into 3 parts (parameters):
 
